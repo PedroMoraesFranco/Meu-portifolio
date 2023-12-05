@@ -1,0 +1,167 @@
+{
+    "projetosFrontEnd": [
+      {
+        "tecnologia": "React",
+        "projeto": "Projeto Básico em JavaScript",
+        "descricao": "Crie uma aplicação simples usando JavaScript para manipulação do DOM e interações do usuário.",
+        "tecnologiaEstilizacao": "CSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "TypeScript",
+        "projeto": "Aplicativo de To-Do List com TypeScript e React",
+        "descricao": "Desenvolva uma lista de tarefas interativa usando React e TypeScript para adicionar tipagem estática ao seu código.",
+        "tecnologiaEstilizacao": "CSS, Styled Components",
+        "outrasTecnologias": ["Jest, Enzyme, Next.js"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "TypeScript",
+        "projeto": "Aplicativo de Chat em Tempo Real com TypeScript e Vue",
+        "descricao": "Desenvolva um aplicativo de chat em tempo real utilizando Vue e TypeScript para melhorar a robustez do código.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["Socket.IO"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "TypeScript",
+        "projeto": "Aplicativo de Portfólio Dinâmico com TypeScript e Next.js",
+        "descricao": "Utilize Next.js com TypeScript para criar um portfólio dinâmico que consome dados de uma API externa.",
+        "tecnologiaEstilizacao": "CSS, Styled Components",
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Angular",
+        "projeto": "Blog Responsivo com Angular",
+        "descricao": "Construa um blog com design responsivo utilizando Angular para estruturação e manipulação de dados.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Angular",
+        "projeto": "Calculadora de Gorjeta com Angular",
+        "descricao": "Desenvolva uma calculadora de gorjeta utilizando Angular para criar componentes reutilizáveis.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Angular",
+        "projeto": "Aplicativo de Gerenciamento de Tarefas com Angular",
+        "descricao": "Desenvolva um aplicativo completo para gerenciamento de tarefas com Angular.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["RxJS"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Angular",
+        "projeto": "Aplicativo de Carrossel de Imagens com Angular",
+        "descricao": "Construa um carrossel de imagens dinâmico usando Angular para manipulação de dados e animações.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Vue",
+        "projeto": "Galeria de Fotos com Vue",
+        "descricao": "Crie uma galeria interativa de fotos utilizando Vue para gerenciamento de estado.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Vue",
+        "projeto":    "Conversor de Moeda com Vue",
+        "descricao": "Desenvolva um conversor de moeda usando Vue para praticar a reatividade do framework.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Vue",
+        "projeto": "Aplicativo de Blog Dinâmico com Vue",
+        "descricao": "Crie um blog dinâmico com sistema de comentários usando Vue e integrando uma API de blog.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Vue",
+        "projeto": "Aplicativo de Catálogo de Produtos com Vue",
+        "descricao": "Desenvolva um catálogo de produtos interativo utilizando Vue e Vuex para gerenciamento de estado.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["Axios"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Vue",
+        "projeto": "Aplicativo de Receitas com Nuxt.js",
+        "descricao": "Desenvolva um aplicativo de receitas usando Nuxt.js para explorar a renderização do lado do servidor no contexto do Vue.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["Vuex, Axios"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Vue",
+        "projeto": "Aplicativo de Reservas de Hotel com Nuxt.js",
+        "descricao": "Crie um sistema de reservas de hotel interativo usando Nuxt.js e integrando uma API de reservas.",
+        "tecnologiaEstilizacao": "CSS, SCSS",
+        "outrasTecnologias": ["Vuex, Axios"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Svelte",
+        "projeto": "Aplicativo de Lista de Compras com Svelte",
+        "descricao": "Desenvolva uma aplicação de lista de compras usando Svelte para explorar a eficiência do framework.",
+        "tecnologiaEstilizacao": "CSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Svelte",
+        "projeto": "Aplicativo de Quiz Interativo com Svelte",
+        "descricao": "Crie um quiz interativo utilizando Svelte para explorar a simplicidade e eficiência do framework.",
+        "tecnologiaEstilizacao": "CSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "Svelte",
+        "projeto": "Aplicativo de Contagem Regressiva com Svelte",
+        "descricao": "Desenvolva uma contagem regressiva para eventos especiais usando Svelte.",
+        "tecnologiaEstilizacao": "CSS",
+        "outrasTecnologias": ["-"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      },
+      {
+        "tecnologia": "TypeScript",
+        "projeto": "Aplicativo de To-Do List com TypeScript e React",
+        "descricao": "Crie uma lista de tarefas interativa usando React e TypeScript para adicionar tipagem estática ao seu código.",
+        "tecnologiaEstilizacao": "CSS, Styled Components",
+        "outrasTecnologias": ["Jest, Enzyme, Next.js"],
+        "linkGitHub": "<insira aqui o link do GitHub>",
+        "linkPagina": "<insira aqui o link do Vercel/GitHub Pages>"
+      }
+]
+}
+  
+  
