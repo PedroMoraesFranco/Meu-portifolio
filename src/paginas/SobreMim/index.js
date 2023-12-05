@@ -39,7 +39,7 @@ export default function SobreMim() {
             
             <div className={styles.redesSociais}>
                 <a href="https://www.linkedin.com/in/pedro-luís-moraes-franco-b10895146" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
+                <a href="https://www.instagram.com/pedroluismfranco/" target="_blank" rel="noopener noreferrer">Instagram</a>
                 <a href="https://github.com/pedromoraesfranco" target="_blank" rel="noopener noreferrer">GitHub</a>
             </div>
             </p>
