@@ -1,9 +1,13 @@
-import PropTypes from 'prop-types';
 import styles from './PostModelo.module.css';
 
-export default function PostModelo({ children, titulo }) {
+export default function PostModelo({ children, fotoCapa, titulo }) {
     return (
         <article className={styles.postModeloContainer}>
+            <div
+                className={styles.fotoCapa}
+                style={{ backgroundImage: `url(${fotoCapa})` }}
+            ></div>
+
             <h2 className={styles.titulo}>
                 {titulo}
             </h2>
@@ -12,10 +16,5 @@ export default function PostModelo({ children, titulo }) {
                 {children}
             </div>
         </article>
-    );
+    )
 }
-
-PostModelo.propTypes = {
-    children: PropTypes.node.isRequired,
-    titulo: PropTypes.string.isRequired,
-};

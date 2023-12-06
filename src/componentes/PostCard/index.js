@@ -1,24 +1,21 @@
-import React from 'react';
-import PropTypes from 'prop-types';
 import BotaoPrincipal from 'componentes/BotaoPrincipal';
+import { Link } from 'react-router-dom';
 import styles from './Post.module.css';
 
-export default function PostCard({ projeto }) {
-    const { linkPagina, projeto: nomeProjeto } = projeto;
-
+export default function PostCard({ post }) {
     return (
-        <a href={linkPagina} target="_blank" rel="noopener noreferrer">
+        <Link to={`/posts/${post.id}`}>
             <div className={styles.post}>
-                <h2 className={styles.titulo}>{nomeProjeto}</h2>
-                <BotaoPrincipal>Detalhes</BotaoPrincipal>
-            </div>
-        </a>
-    );
-}
+                <img
+                    className={styles.capa}
+                    src={`/assets/posts/${post.id}/capa.png`}
+                    alt="Imagem de capa do post"
+                />
 
-PostCard.propTypes = {
-    projeto: PropTypes.shape({
-        linkPagina: PropTypes.string.isRequired,
-        projeto: PropTypes.string.isRequired,
-    }).isRequired,
-};
+                <h2 className={styles.titulo}>{post.titulo}</h2>
+
+                <BotaoPrincipal>Ler</BotaoPrincipal>
+            </div>
+        </Link>
+    )
+}
